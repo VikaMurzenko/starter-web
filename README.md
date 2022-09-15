@@ -13,6 +13,7 @@ The main purpose is to provide simple example for Git training demos.
 This is a simple web project.
 
 ## How to Contribute
+Please fork this repo and then issue
 
 ## Copyright
 
