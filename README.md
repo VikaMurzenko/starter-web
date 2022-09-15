@@ -13,3 +13,7 @@ The main purpose is to provide simple example for Git training demos.
 This is a simple web project.
 
 ## How to Contribute
+
+## Copyright
+
+2014 Git.Training.
