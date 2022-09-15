@@ -7,6 +7,9 @@ and various commands using a web projec.
 
 ## Purpose
 
+The main purpose is to provide simple example for Git training demos.
+
 ## Deployment
+This is a simple web project.
 
 ## How to Contribute
